@@ -34,7 +34,7 @@ html {
 
  .recipe {
     width: 50%;
-    padding: 40px 5% 0 5%;
+    padding: 40px 5% 0;
  }
 
  .recipe .dish-title h1{
